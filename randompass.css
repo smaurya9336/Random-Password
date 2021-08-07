@@ -1,0 +1,49 @@
+body{
+    background-color:navy;
+    height: 600px;
+}
+.container{
+    width: 600px;
+    margin-bottom: 0 auto;
+    margin-top: 120px;
+    font-size: 3em;
+}
+.out{
+    margin-bottom: 10px;
+    width: 100%;
+    text-align: center;
+    color: #f63;
+    font-size: 2.3rem;
+    border: 2px solid white;
+    border-radius: 14px;
+}
+.mybtn{
+    padding: 15px 15px;
+    font-size: 40px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+.pass{
+    width: 350px;
+    float: left ;
+    font-size: 30px;
+    color: #fff;
+    margin-left: 0;
+    margin-top: 10px;
+    padding: 20px;
+background-color: black;
+border: 2px solid white;
+border-radius: 20px;
+
+}
+.in{
+    margin: 0;
+    padding: 5px;
+    margin-top: 10px;
+    float: right;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    border-radius: 20px;
+}
